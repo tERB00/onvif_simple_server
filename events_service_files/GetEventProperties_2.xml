@@ -4,7 +4,6 @@
                             <tt:MessageDescription IsProperty="true">
                                 <tt:Source>
                                     <tt:SimpleItemDescription Name="%SOURCE_NAME%" Type="tt:ReferenceToken"/>
-                                    <tt:SimpleItemDescription Name="Rule" Type="xsd:string"/>
                                 </tt:Source>
                                 <tt:Data>
                                     <tt:SimpleItemDescription Name="State" Type="xsd:boolean"/>
